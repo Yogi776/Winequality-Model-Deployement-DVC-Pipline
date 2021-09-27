@@ -1,6 +1,6 @@
 base:
   project: winequality-project
-  random_state: 42
+  random_state: 40
   target_col: TARGET
 
 data_source:
@@ -19,8 +19,8 @@ estimators:
     params:
       # alpha: 0.88
       # l1_ratio: 0.89
-      alpha: 0.9
-      l1_ratio: 0.4
+      alpha: 0.88
+      l1_ratio: 0.89
 model_dir: saved_models
 
 reports:
