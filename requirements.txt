@@ -15,7 +15,6 @@ pandas
 pytest
 tox
 flask
-flaske8
 gunicorn
 
 
