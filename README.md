@@ -70,7 +70,7 @@ build your own package commands-
 ```bash
 python setup.py sdist bdist_wheel
 ```
-its is winequality base machine learning project
+
 
 Project Organization
 ------------
